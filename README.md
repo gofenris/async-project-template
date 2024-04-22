@@ -17,6 +17,10 @@ Desired and Implemented Features
 * [ ] Dataset readme and checklist implementation a la Deon
 * [ ] Slightly more complex variation of this template that has data validation and deployment options, recalling the Yertle project. 
 
-# Acknowledgements
+## License and Author
 
-This repository and template was inspired by Chris Diehl at The Data Guild. 
+License: Obviously feel free to use, edit and do whatever with this template. It's just a template. Attributions not necessary but welcome. If you have suggestions for improvement, feel free to create an issue or submit a pull request. Thank you! 
+
+Authors: @amanahuja and team @gofenris. 
+
+Acknowledgement: The original concept by Chris Diehl et al. at The Data Guild. 
